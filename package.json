@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.0.3"
+  },
+  "name": "super-stats-bot",
+  "description": "Um bot de Discord criado para auxiliar nas estatísticas dos jogos dos usuários",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabriellaxdantas/Super-Stats-Bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabriellaxdantas/Super-Stats-Bot/issues"
+  },
+  "homepage": "https://github.com/gabriellaxdantas/Super-Stats-Bot#readme"
+}
